@@ -1,7 +1,9 @@
-package core;
+package data;
 
 import java.util.HashMap;
 import java.util.Map;
+
+import services.Client;
 
 public class Cart {
     
